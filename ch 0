@@ -1,0 +1,17 @@
+{
+  "title": "<spring is coming>",
+  "description": "<manga description>",
+  "artist": "<Yu Chi Jin Ze>",
+  "author": "<Yu Chi Jin Ze>",
+  "cover": "<https://ibb.co/6YKGB1q.jpg>",
+  "chapters": {
+    "<0>": {
+      "title": "<0>",
+      "volume": "<1>",
+      "groups": {
+        "<hansoo>": "/proxy/api/imgur/chapter/<yVmYC3y>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
