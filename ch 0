@@ -9,7 +9,15 @@
       "title": "0",
       "volume": "1",
       "groups": {
-        "<hansoo>": "/proxy/api/imgur/chapter/yVmYC3y/"
+        "hansoo": "/proxy/api/imgur/chapter/yVmYC3y/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "groups": {
+        "Hansoo": "/proxy/api/imgur/chapter/2GNFlcm/"
       },
       "last_updated": "1616368746"
     }
